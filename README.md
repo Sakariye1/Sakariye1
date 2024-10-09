@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sakariye1/Sakariye1/output/snake.svg" alt="Snake animation" />
 
 ###
